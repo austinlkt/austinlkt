@@ -1,4 +1,4 @@
-# Basic Info
+# ⭐️ About Me:
 
 🎓 CS Graduate Student @ Upenn MCIT (Class of 2025).  
 🔭 Actively seeking an SDE internship for the summer of 2024.  
